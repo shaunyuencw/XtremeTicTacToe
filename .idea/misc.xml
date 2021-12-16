@@ -4,11 +4,15 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/yuens/Desktop/NTU School/Kotlin/XtremeTicTacToe/app/src/main/res/drawable/button_background.xml" value="0.26927083333333335" />
+        <entry key="..\:/Users/yuens/Desktop/NTU School/Kotlin/XtremeTicTacToe/app/src/main/res/drawable/button_clicked.xml" value="0.12916666666666668" />
+        <entry key="..\:/Users/yuens/Desktop/NTU School/Kotlin/XtremeTicTacToe/app/src/main/res/drawable/button_des.xml" value="0.12916666666666668" />
         <entry key="..\:/Users/yuens/Desktop/NTU School/Kotlin/XtremeTicTacToe/app/src/main/res/drawable/login_background.xml" value="0.128125" />
         <entry key="..\:/Users/yuens/Desktop/NTU School/Kotlin/XtremeTicTacToe/app/src/main/res/drawable/login_edit_background.xml" value="0.12916666666666668" />
         <entry key="..\:/Users/yuens/Desktop/NTU School/Kotlin/XtremeTicTacToe/app/src/main/res/drawable/login_icon.xml" value="0.12916666666666668" />
         <entry key="..\:/Users/yuens/Desktop/NTU School/Kotlin/XtremeTicTacToe/app/src/main/res/drawable/password_icon.xml" value="0.12916666666666668" />
+        <entry key="..\:/Users/yuens/Desktop/NTU School/Kotlin/XtremeTicTacToe/app/src/main/res/layout/activity_login.xml" value="0.1" />
         <entry key="..\:/Users/yuens/Desktop/NTU School/Kotlin/XtremeTicTacToe/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/yuens/Desktop/NTU School/Kotlin/XtremeTicTacToe/app/src/main/res/menu/menu_main.xml" value="0.12760416666666666" />
       </map>
     </option>
   </component>

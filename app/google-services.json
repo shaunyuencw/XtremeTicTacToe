@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "494375699738",
+    "project_id": "xtremetictactoe-b3a67",
+    "storage_bucket": "xtremetictactoe-b3a67.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494375699738:android:84e9208560ae6b642f58a3",
+        "android_client_info": {
+          "package_name": "com.example.xtremetictactoe"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494375699738-udvrcenc3c1sodrsh4nmih9n570nr893.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.xtremetictactoe",
+            "certificate_hash": "0556e9618a43a0b668d322f7ea164fbf097c6a2e"
+          }
+        },
+        {
+          "client_id": "494375699738-pttt6orkt4if4g95s0rktpu5sfduphb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArik-XEMnk_8hz4cHj-eOsTDI92t0xc_A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494375699738-pttt6orkt4if4g95s0rktpu5sfduphb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
