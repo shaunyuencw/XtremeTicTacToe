@@ -1,5 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
 
-    <item android:title="Logout" android:id="@+id/miLogout"/>
+    <item android:title="Edit Status"
+          android:id="@+id/miEditStatus"
+          android:icon="@drawable/ic_updatestatus"
+          app:showAsAction="always"/>
+
+    <item android:id="@+id/action_notification1"
+        android:icon="@drawable/ic_three"
+        android:title="action_notification"
+        app:showAsAction="always">
+
+        <menu>
+            <item android:title="Edit Name"
+                  android:id="@+id/miEditName"
+                  android:icon="@drawable/ic_profile"
+                  app:showAsAction="withText"/>
+
+            <item android:title="Logout"
+                  android:id="@+id/miLogout"
+                  android:icon="@drawable/ic_logout"
+                  app:showAsAction="withText"/>
+        </menu>
+
+    </item>
+
 </menu>

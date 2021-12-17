@@ -62,3 +62,4 @@
 Issues? Report them at https://github.com/firebase/firebase-tools/issues and attach the *-debug.log files.
  
 [debug] [2021-12-16T11:04:39.218Z] [worker-~diagnostic~-c96a26e7-ac58-4186-b631-f93e25b55ea0]: IDLE {"metadata":{"emulator":{"name":"functions"},"message":"[worker-~diagnostic~-c96a26e7-ac58-4186-b631-f93e25b55ea0]: IDLE"}}
+[debug] [2021-12-16T13:15:57.672Z] [worker-~diagnostic~-c96a26e7-ac58-4186-b631-f93e25b55ea0]: exited {"metadata":{"emulator":{"name":"functions"},"message":"[worker-~diagnostic~-c96a26e7-ac58-4186-b631-f93e25b55ea0]: exited"}}

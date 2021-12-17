@@ -20,3 +20,6 @@ exports.addUserToFirestore = functions.auth.user().onCreate((user) => {
         emojis: '\u{1F43C}\u{1F33F}\u{2764}', // panda, herb, heart emoji
     });
 });
+
+// firebase emulators:start
+// Run "firebase deploy --only functions" in cmd after edits
